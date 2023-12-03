@@ -1,6 +1,5 @@
 using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using static Bullet;
 
 public class Bullet : MonoBehaviour
